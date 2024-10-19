@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\schwarztoter\source\repos\3D_Graphics_Engine\source\main.cpp(138,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\schwarztoter\source\repos\3D_Graphics_Engine\source\main.cpp(138,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\schwarztoter\source\repos\3D_Graphics_Engine\source\main.cpp(137,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\schwarztoter\source\repos\3D_Graphics_Engine\source\main.cpp(137,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\schwarztoter\source\repos\3D_Graphics_Engine\source\main.cpp(136,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\schwarztoter\source\repos\3D_Graphics_Engine\source\main.cpp(136,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\schwarztoter\source\repos\3D_Graphics_Engine\source\main.cpp(112,13): warning C4101: 'triProjected': unreferenced local variable
+  3D_Graphics_Engine.vcxproj -> C:\Users\schwarztoter\source\repos\3D_Graphics_Engine\Debug\3D_Graphics_Engine.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
